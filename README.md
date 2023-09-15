@@ -1,2 +1,2 @@
 # OpenAI.Net
-Standard-Compliant .Net Library For Open Ai 
+Standard-Compliant .Net Library For Open AI
